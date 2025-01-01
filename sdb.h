@@ -41,3 +41,4 @@ public:
   F &operator[](int key);
   const F &operator[](int key) const;
 };
+} // namespace sdb
